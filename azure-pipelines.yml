@@ -23,7 +23,7 @@ steps:
     deployToSlotOrASE: true
     resourceGroupName: 'IOT_ASHOTEST'
     slotName: 'production'
-    package: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    package: '$(System.DefaultWorkingDirectory)/SRKSDAS_TAL.zip'
     appSettings: '-ServerName "TCP:10.80.20.25,1433" -password "password@123" -DB "i_facility_tal" -Schema "dbo" -username "sa" -databasename "i_facility_tal.dbo"'
     deploymentMethod: 'auto'
 - task: NuGetToolInstaller@1
