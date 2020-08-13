@@ -1,0 +1,97 @@
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\bin\Debug\Dapper.dll
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\bin\Debug\Dapper.xml
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+D:\Monika\Github_i_facility_stable_build\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+C:\Users\user\Desktop\TSAL_UAT_Stable_20190715\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\Dapper.dll
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\Dapper.xml
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+D:\Ashok\TSAL_UAT\TSAL_Wokring Build\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\Dapper.dll
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\Dapper.xml
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+D:\SRKS\Projects\TATA\TSAL_UAT_Stable_20191022\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\Dapper.dll
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\bin\Debug\Dapper.xml
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+D:\Ashok\TSAL_UAT\Monika\TSAL_UAT_Stable_20190924\TSAL_UAT_Stable_20190923\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\bin\Debug\Dapper.dll
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\bin\Debug\Dapper.xml
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+D:\Monika\NewGitHub\TSAL_UAT_Stable_20191031\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+D:\Ashok\TSAL_UAT\ServerStableBuild\Monika\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+D:\Ashok\TSAL_UAT\ServerStableBuild\Monika\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+D:\Ashok\TSAL_UAT\ServerStableBuild\Monika\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\Dapper.dll
+D:\Ashok\TSAL_UAT\ServerStableBuild\Monika\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\Dapper.xml
+D:\Ashok\TSAL_UAT\ServerStableBuild\Monika\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+D:\Ashok\TSAL_UAT\ServerStableBuild\Monika\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+D:\Ashok\TSAL_UAT\ServerStableBuild\Monika\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+D:\Ashok\TSAL_UAT\ServerStableBuild\Monika\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\Dapper.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\Dapper.xml
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\Dapper.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\bin\Debug\Dapper.xml
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\TSAL_UAT_Stable_20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\bin\Debug\Dapper.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\bin\Debug\Dapper.xml
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+G:\Monika\TSAL Application\TSAL_UAT_Stable_20191104-8080\DAS20191102\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\bin\Debug\Dapper.dll
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\bin\Debug\Dapper.xml
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\obj\Debug\i_facilitylibrary.csprojAssemblyReference.cache
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
