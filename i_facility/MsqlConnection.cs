@@ -13,7 +13,7 @@ namespace i_facility
 {
     class MsqlConnection : IDisposable
     {
-        #region Local Server
+        #region Local Server   USING AZURE DB
         ////static String ServerName = @"TCP:10.20.10.65,1433";  // Server
         //static String ServerName = @"SRKSDEV001-PC\SQLSERVER17";
 

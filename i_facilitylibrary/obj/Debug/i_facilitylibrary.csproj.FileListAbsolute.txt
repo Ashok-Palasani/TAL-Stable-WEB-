@@ -95,3 +95,11 @@ D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_fac
 D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
 D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
 D:\Aswini\TAL\Monika- Role based login_latest\Rolebased login_20200622_New\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb
+C:\Ashok\TAL_stable_Build\i_facilitylibrary\bin\Debug\i_facilitylibrary.dll
+C:\Ashok\TAL_stable_Build\i_facilitylibrary\bin\Debug\i_facilitylibrary.pdb
+C:\Ashok\TAL_stable_Build\i_facilitylibrary\bin\Debug\Dapper.dll
+C:\Ashok\TAL_stable_Build\i_facilitylibrary\bin\Debug\Dapper.xml
+C:\Ashok\TAL_stable_Build\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CoreCompileInputs.cache
+C:\Ashok\TAL_stable_Build\i_facilitylibrary\obj\Debug\i_facilitylibrary.csproj.CopyComplete
+C:\Ashok\TAL_stable_Build\i_facilitylibrary\obj\Debug\i_facilitylibrary.dll
+C:\Ashok\TAL_stable_Build\i_facilitylibrary\obj\Debug\i_facilitylibrary.pdb

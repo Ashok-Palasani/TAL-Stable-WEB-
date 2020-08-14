@@ -11,8 +11,7 @@ namespace i_facility
 {
     public class CalOEE_WODetails
     {
-        private i_facility_tsalEntities db = new i_facility_tsalEntities();
-
+        private i_facility_tsalEntities db = new i_facility_tsalEntities(); 
         public void CalculateOEEForYesterday(DateTime? StartDate, DateTime? EndDate)
         {
             //MessageBox.Show("StartTime= " + StartDate + " EndTime= " + EndDate);

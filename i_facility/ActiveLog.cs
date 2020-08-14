@@ -7,6 +7,7 @@ using System.Web;
 
 namespace TATA
 {
+    ////Added comment
     public static class ActiveLog
     {
         public static IEnumerable<string> EnumeratePropertyDifferences<T>(this T obj1, T obj2)
