@@ -11,7 +11,7 @@ pool:
 
 variables:
   solution: 'i_facilitylibrary.sln'
-  buildPlatform: 'Any CPU'
+  buildPlatform: 'Any CPU'    
   buildConfiguration: 'Release'
 
 steps:
@@ -23,7 +23,7 @@ steps:
     deployToSlotOrASE: true
     resourceGroupName: 'IOT_ASHOTEST'
     slotName: 'production'
-    package: '$(System.DefaultWorkingDirectory)/SRKSDAS_TAL.zip'
+    package: '$(System.DefaultWorkingDirectory)/'
     appSettings: '-ServerName "TCP:10.80.20.25,1433" -password "password@123" -DB "i_facility_tal" -Schema "dbo" -username "sa" -databasename "i_facility_tal.dbo"'
     deploymentMethod: 'auto'
 - task: NuGetToolInstaller@1
@@ -43,3 +43,5 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+    
+- task: PublishBuildArtifacts@1
