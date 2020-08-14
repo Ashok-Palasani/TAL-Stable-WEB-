@@ -23,7 +23,7 @@ steps:
     deployToSlotOrASE: true
     resourceGroupName: 'IOT_ASHOTEST'
     slotName: 'production'
-    package: '$(System.DefaultWorkingDirectory)/'
+    package: '$(System.DefaultWorkingDirectory)\**\*.zip'
     appSettings: '-ServerName "TCP:10.80.20.25,1433" -password "password@123" -DB "i_facility_tal" -Schema "dbo" -username "sa" -databasename "i_facility_tal.dbo"'
     deploymentMethod: 'auto'
 - task: NuGetToolInstaller@1
@@ -35,7 +35,7 @@ steps:
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
-    msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactStagingDirectory)"'
+    msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactStagingDirectory)\**\*.zip"'
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
